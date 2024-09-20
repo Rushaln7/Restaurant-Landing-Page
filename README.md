@@ -4,7 +4,7 @@
 
 **Grandéur Dine** is a modern, responsive restaurant landing page built with ReactJS, powered by Vite for fast development and optimized build processes. The design follows a sleek and elegant UI/UX, providing an engaging user experience. The CSS BEM methodology ensures a modular and maintainable code structure.
 
-![Screenshot 2024-09-20 124516](https://github.com/user-attachments/assets/bd5920d9-4218-4e5d-82b3-dab72cbe069a)
+![Screenshot 2024-09-20 124516](https://github.com/user-attachments/assets/4d33081f-ba54-4f91-8ddc-143d12b9498c)
 
 [View Live Site]()
 
