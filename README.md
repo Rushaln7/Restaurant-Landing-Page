@@ -6,7 +6,7 @@
 
 ![Screenshot 2024-09-20 124516](https://github.com/user-attachments/assets/4d33081f-ba54-4f91-8ddc-143d12b9498c)
 
-[View Live Site]()
+[View Live Site](https://grandeurdine.vercel.app/)
 
 ## Features
 
